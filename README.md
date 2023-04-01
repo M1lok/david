@@ -1,6 +1,5 @@
 # david
 <html>
-<title>travel.beamt.ua</title>
 <body>
      <h1 style="background color:lightgreen;color darkgreen;text-align: center;font-size:50px"><b>beamt</b>travelimg 
      <img src="https://st2.depositphotos.com/4492993/7247/v/600/depositphotos_72470597-stock-illustration-vector-airplane-travel-tourism.jpg"width="100" height="100"/></h1>
